@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Atharv Web Studio",
+  "description": "Professional web development portfolio and agency website specializing in custom, SEO-friendly, and responsive designs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
